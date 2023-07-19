@@ -95,7 +95,14 @@ article span {
 }
 
 article p {
-  /* margin: 15px 0; */
   color: #d0722e;
   text-align: justify;
+}
+
+footer {
+  font-weight: 600;
+  text-align: center;
+  width: 100%;
+  margin-top: 30px;
+  height: 40px;
 }
